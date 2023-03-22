@@ -154,3 +154,28 @@ main h1 {
     grid-template-columns: 100%;
   }
 }
+
+/* Mis alteraciones */
+body {
+  background-color: rgb(221, 134, 34);
+}
+
+h1 {
+  color: rgb(44, 41, 38);
+}
+
+.btn {
+  padding: 0.5rem 1.5rem;
+}
+
+.btn:hover {
+  background-color: rgb(218, 123, 15);
+}
+
+#latest-products ul {
+  grid-gap: 1rem;
+}
+
+#main-header {
+  justify-content: space-between;
+}
